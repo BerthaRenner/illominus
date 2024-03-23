@@ -1,0 +1,16 @@
+{
+  "name": "illominus",
+  "version": "1.0.0",
+  "description": "generate a valid object property",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BerthaRenner/illominus.git"
+  },
+  "devDependencies": {
+    "tape": "^2.13.0"
+  },
+  "author": "BayleeBahringer",
+  "bugs": {
+    "url": "https://github.com/BerthaRenner/illominus.git/issues"
+  }
+}
